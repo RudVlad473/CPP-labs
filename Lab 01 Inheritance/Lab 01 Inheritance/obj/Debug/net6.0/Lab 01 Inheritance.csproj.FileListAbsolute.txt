@@ -1,0 +1,15 @@
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\bin\Debug\net6.0\Lab 01 Inheritance.exe
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\bin\Debug\net6.0\Lab 01 Inheritance.deps.json
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\bin\Debug\net6.0\Lab 01 Inheritance.runtimeconfig.json
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\bin\Debug\net6.0\Lab 01 Inheritance.dll
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\bin\Debug\net6.0\Lab 01 Inheritance.pdb
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.csproj.AssemblyReference.cache
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.AssemblyInfoInputs.cache
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.AssemblyInfo.cs
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.dll
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\refint\Lab 01 Inheritance.dll
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.pdb
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\Lab 01 Inheritance.genruntimeconfig.cache
+C:\Users\user\source\CPP labs\Lab 01 Inheritance\Lab 01 Inheritance\obj\Debug\net6.0\ref\Lab 01 Inheritance.dll
